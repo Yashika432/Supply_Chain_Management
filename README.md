@@ -6,7 +6,7 @@ This project demonstrates a full-stack analysis of supply chain data using **Exc
 
 ## 📁 Repository Contents
 
-- 📘 **Excel Dashboard** (`My Supply chain Managemen project.xlsx`)  
+- 📘 **Excel Dashboard** (`https://github.com/Yashika432/Supply_Chain_Management/blob/main/My%20Supply%20chain%20Managemen%20project.xlsx`)  
   - Pivot tables and KPIs using Power Pivot & Power Query
   - Interactive slicers and visual reporting
 
