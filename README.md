@@ -22,10 +22,10 @@ This project demonstrates a full-stack analysis of supply chain data using **Exc
   - Advanced queries to calculate all key performance indicators
 
 -  📁 **Datasets** -
-  - <a href="https://github.com/Yashika432/Supply_Chain_Management/blob/main/Supply%20Chain%20View.xlsx">Supply Chain View.xlsx</a>
-  - <a href="https://github.com/Yashika432/Supply_Chain_Management/blob/main/F_INVENTORY_ADJUSTED.xlsx">F_INVENTORY_ADJUSTED.xlsx</a>
-  - <a href="https://github.com/Yashika432/Supply_Chain_Management/blob/main/F_POINT_OF_SALE.xlsx">F_POINT_OF_SALE.xlsx</a>
-  - <a href="https://github.com/Yashika432/Supply_Chain_Management/blob/main/F_SALES.xlsx">F_SALES.xlsx</a>
+    - <a href="https://github.com/Yashika432/Supply_Chain_Management/blob/main/Supply%20Chain%20View.xlsx">Supply Chain View.xlsx</a>
+    - <a href="https://github.com/Yashika432/Supply_Chain_Management/blob/main/F_INVENTORY_ADJUSTED.xlsx">F_INVENTORY_ADJUSTED.xlsx</a>
+    - <a href="https://github.com/Yashika432/Supply_Chain_Management/blob/main/F_POINT_OF_SALE.xlsx">F_POINT_OF_SALE.xlsx</a>
+    - <a href="https://github.com/Yashika432/Supply_Chain_Management/blob/main/F_SALES.xlsx">F_SALES.xlsx</a>
 
 ---
 
