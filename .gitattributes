@@ -1,1 +1,6 @@
 *.xlsx filter=lfs diff=lfs merge=lfs -text
+<<<<<<< HEAD
+=======
+*.pbix filter=lfs diff=lfs merge=lfs -text
+*.twbx filter=lfs diff=lfs merge=lfs -text
+>>>>>>> 82af1f5c8a7d8d4de3dc676ebb0ab98b25fc1e96
